@@ -1,0 +1,10 @@
+O:\Udemy\Udemy C# Çalışma\timer point\timer point\bin\Debug\timer point.exe.config
+O:\Udemy\Udemy C# Çalışma\timer point\timer point\bin\Debug\timer point.exe
+O:\Udemy\Udemy C# Çalışma\timer point\timer point\bin\Debug\timer point.pdb
+O:\Udemy\Udemy C# Çalışma\timer point\timer point\obj\Debug\timer_point.Form1.resources
+O:\Udemy\Udemy C# Çalışma\timer point\timer point\obj\Debug\timer_point.Properties.Resources.resources
+O:\Udemy\Udemy C# Çalışma\timer point\timer point\obj\Debug\timer point.csproj.GenerateResource.cache
+O:\Udemy\Udemy C# Çalışma\timer point\timer point\obj\Debug\timer point.csproj.CoreCompileInputs.cache
+O:\Udemy\Udemy C# Çalışma\timer point\timer point\obj\Debug\timer point.exe
+O:\Udemy\Udemy C# Çalışma\timer point\timer point\obj\Debug\timer point.pdb
+O:\Udemy\Udemy C# Çalışma\timer point\timer point\obj\Debug\timer point.csprojAssemblyReference.cache
